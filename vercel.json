@@ -1,0 +1,9 @@
+{
+  "version": 2,
+  "builds": [
+    {
+      "src": "break-timer/package.json",
+      "use": "@vercel/next"
+    }
+  ]
+}
